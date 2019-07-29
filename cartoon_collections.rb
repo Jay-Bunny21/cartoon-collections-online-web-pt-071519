@@ -16,8 +16,9 @@ def long_planeteer_calls(call)
   end
 end
 
-def find_the_cheese(cheddar_cheese)
+def find_the_cheese(array)
 cheese_types = ["cheese" , "gouda" , "camembert"]
 cheese_types.include?(types)
  end
+ find_the_cheese(cheddar_cheese)
 end
