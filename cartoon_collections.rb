@@ -19,4 +19,6 @@ end
 def find_the_cheese(cheddar_cheese)
  if cheddar_cheese.include?(element)
    return element
+ end
+ cheddar_cheese[cheese]
 end
